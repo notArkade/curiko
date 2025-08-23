@@ -30,7 +30,7 @@ export default function ChatPage() {
 
   return (
     <div className="flex flex-col items-center justify-center min-h-screen p-6">
-      <h1 className="text-2xl font-bold mb-4 text-gray-200 font-light">Chat with Curiko {">// //<"}</h1>
+      <h1 className="text-2xl mb-4 text-gray-200 font-light">Chat with Curiko {">// //<"}</h1>
 
       <textarea
         className="w-full max-w-lg p-3 border border-gray-700 rounded-lg shadow-sm mb-4"
