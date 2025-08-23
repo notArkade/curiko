@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Ai Therapist",
+  title: "Curiko - Ai Therapist",
   description: "Your personal AI-powered mental health companion.",
 };
 

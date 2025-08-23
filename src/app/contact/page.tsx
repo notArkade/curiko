@@ -3,7 +3,7 @@ import React from 'react'
 const page = () => {
   return (
     <div>
-        <h1 className='font-mono text-center mt-20'>About Page</h1>
+      contact
     </div>
   )
 }
